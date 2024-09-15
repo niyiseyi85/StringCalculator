@@ -58,10 +58,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Enitities\OperationType.cs" />
+    <Compile Include="Entities\OperationType.cs" />
+    <Compile Include="Exceptions\InvalidInputException.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Services\CalculatorService.cs" />
+    <Compile Include="Service\CalculatorService.cs" />
     <Compile Include="Shared\Parser.cs" />
     <Compile Include="Shared\Validator.cs" />
   </ItemGroup>
