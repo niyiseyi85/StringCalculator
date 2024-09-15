@@ -5,7 +5,7 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculator", "StringCalculator\StringCalculator.csproj", "{7D9421E2-0A0C-4BE2-9072-A512A6D196AC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringCalculator.UnitTest", "StringCalculator.UnitTest\StringCalculator.UnitTest.csproj", "{D9D7F963-6601-48A9-B548-68326E30D640}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringCalculator.UnitTest1", "StringCalculator.UnitTest\StringCalculator.UnitTest1.csproj", "{D9D7F963-6601-48A9-B548-68326E30D640}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
