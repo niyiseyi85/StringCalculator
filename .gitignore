@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/StringCalculator/DesignTimeBuild
+/.vs
+/StringCalculator/bin/Debug
+/StringCalculator.UnitTest/bin/Debug/net8.0
+/StringCalculator.UnitTest/obj
+/packages
